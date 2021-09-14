@@ -1,2 +1,2 @@
 def cube(l):
-	return l**3, l**2
+    return l**3, l**2
